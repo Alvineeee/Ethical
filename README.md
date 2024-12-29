@@ -1,2 +1,2 @@
 # Ethical
-make it simpler, fast and functionable
+make it simple, fast and functionable
