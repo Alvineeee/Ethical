@@ -76,8 +76,9 @@ How to Run
 
     Clone the repository:
 
-git clone https://github.com/Alvineee/ProjectA.git
-cd ProjectA
+git clone https://github.com/Alvineeee/Ethical.git
+cd Ethical/ProjectA
+
 
 Run the script:
 
