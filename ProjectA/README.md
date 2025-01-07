@@ -76,8 +76,8 @@ How to Run
 
     Clone the repository:
 
-git clone https://github.com/yourusername/file-encryption-script.git
-cd file-encryption-script
+git clone https://github.com/Alvineee/ProjectA.git
+cd ProjectA
 
 Run the script:
 
